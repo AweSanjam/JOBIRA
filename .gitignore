@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.bak*
+.passcode
+*.log
+*.pdf
+*.docx
+*.xlsx
+resumes/
+cover_letters/
+reference/
+skill_file*
+mobile/android/
+mobile/.passcode
+.claude/
+track_sheet/
